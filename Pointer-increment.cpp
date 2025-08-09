@@ -1,3 +1,6 @@
+//Abhinav Rakhunde
+//PRN:24070123001
+
 #include <iostream>
 using namespace std;
 
@@ -36,7 +39,23 @@ int main() {
     cout<<"Before increment:"<<dptr<<endl;
     dptr++;
     cout<<"After increment:"<<dptr<<endl;
-    
+    }
+/* OUTPUT:
+For int:
+20
+Before increment:0x61fefc
+After increment:0x61ff00
+For float:
+20.22
+Before increment:0x61fef8
+After increment:0x61fefc
+For double:
+45.66
+Before increment:0x61fef0
+After increment:0x61fef8
+For char:
+B
+Before increment:B«Gßz╘F@Å┬íA
+After increment:«Gßz╘F@Å┬íA 
+*/
 
-
-}
