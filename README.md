@@ -80,4 +80,3 @@ Through this experiment, we learned how to perform pointer arithmetic including 
 
 ---
 
-If you want, I can now also give you a **short GitHub repository description** for this.
